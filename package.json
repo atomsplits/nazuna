@@ -19,6 +19,7 @@
 		"@tailwindcss/forms": "^0.5.11",
 		"@tailwindcss/typography": "^0.5.19",
 		"@tailwindcss/vite": "^4.3.0",
+		"@types/three": "^0.186.0",
 		"svelte": "^5.56.1",
 		"svelte-check": "^4.6.0",
 		"tailwindcss": "^4.3.0",
@@ -27,6 +28,7 @@
 		"wrangler": "^4.97.0"
 	},
 	"dependencies": {
-		"@types/node": "^26.6.2"
+		"@types/node": "^26.6.2",
+		"three": "^0.186.0"
 	}
 }
