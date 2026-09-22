@@ -1,6 +1,7 @@
 name = "nazuna"
 main = ".svelte-kit/cloudflare/_worker.js"
 compatibility_date = "2024-09-23"
+compatibility_flags = [ "nodejs_compat" ]
 pages_output_build_dir = "./svelte-kit/cloudflare"
 
 [assets]
