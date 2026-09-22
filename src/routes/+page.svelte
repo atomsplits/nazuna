@@ -1,5 +1,5 @@
 <script>
-    import "../scripts/three";
+  import "./scripts/three"
 </script>
 
 <div class="bg-black w-screen h-screen z-10 absolute opacity-60"></div>
